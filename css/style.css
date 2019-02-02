@@ -1,0 +1,36 @@
+.banner
+{
+	background-image: url(../images/dbs.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.slider{
+	background-color: rgba(100,100,100,0.5);
+}
+
+.content
+{
+	padding: 100px 60px;
+}
+
+.content h1
+{
+	margin-bottom: 80px;
+}
+
+
+
+.ci {
+    bottom: 20px;
+    
+}
+
+.ci li {
+    width: 15px;
+    border-radius: 50%;
+    height: 15px;
+    background-color: black;
+    
+}
